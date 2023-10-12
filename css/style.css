@@ -1,0 +1,426 @@
+#header
+{
+    width: 100%;
+    height: 40px;
+    background-color: #102b40;
+    margin-bottom: -10px;
+}
+.line
+{
+    height: 3.5px;
+    width:35px;
+    background-color: #1dc9a1;
+    border-radius: 4px;
+    margin: 4px;
+    display: inline-block;
+}
+.first
+{
+    position: relative;
+    left:40px;
+}
+
+.box
+{
+    height: 18px;
+    width: 18px;
+    background-color: #1dc9a1;
+    border-radius: 2px;
+    margin: 6px;
+   
+
+
+}
+.right
+{
+    float: right;
+    position: relative;
+    right: 40px;
+}
+
+
+#header2
+{ 
+    width: 100%;
+    margin-top: -6px;
+    height:90px;
+    background-color: azure;
+}
+
+.blackbox
+{
+    height: 60px;
+    width: 170px;
+    background-color: #102b40;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+    left: 40px;
+
+   
+
+}
+.second
+{
+    width:50px;
+    float: right;
+    margin: 6px;
+    position: relative;
+    right: 40px;
+}
+
+
+#header3
+{
+    width: 100%;
+    margin-top: 0px;
+    height: 450px; 
+    background-color: #102b40;
+    text-align: center;
+
+}
+.third
+{
+    height: 7px;
+    width: 70px;
+    
+}
+.short
+{
+    width:50px;
+}
+.white
+{
+    background-color: azure;
+}
+.white.short
+{
+    width: 15px;
+}
+.white.long
+{
+    width: 80px;
+}
+.whiteline2
+{
+    position: relative;
+    
+}
+
+
+
+.thick
+{
+    height: 40px;
+    width: 170px ;
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    
+
+}
+.groupline3
+{
+  position: relative;
+  top:150px;
+}
+
+
+
+#header4
+{
+    background-color: azure;
+    height: 2000px;
+    text-align: center;
+}
+
+
+.block
+{
+     width: 300px;
+     height: 140px;
+     border-radius: 30px;
+     background-color: #1dc9a1;
+     margin: 20px;
+     display: inline-block;
+}
+.blockset
+{
+    position: relative;
+    top:-90px;
+    
+}
+.half
+{
+    height: 9px;
+    width: 95px;
+}
+.halfshort
+{
+    height: 9px;
+    width: 60px;
+}
+
+.lineset4
+{
+    position: relative;
+    
+    margin-bottom: 40px;
+}
+.lineset5
+{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.blockgreen
+{
+    
+    background-color: #1dc9a1;
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+    display: inline-block;
+}
+.blockgreenstrip
+{
+    background: repeating-linear-gradient(
+        136deg,
+        #35e808,
+        #33ff00 10px,
+        #020474 10px,
+        #04056a 20px
+     
+
+      
+      );
+
+
+
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+
+    display: inline-block ;
+}
+
+.lineset6
+{
+    margin-top: 60px;
+}
+
+.smallcircle
+{
+    height: 250px;
+    width:250px;
+    background-color: #102b40;
+    border-radius: 190px;
+   
+    display: inline-block;
+
+}
+.bigcircle
+{
+    height: 350px;
+    width:350px;
+    background-color: #102b40;
+    border-radius: 250px;
+    margin: 20px;
+    margin-left:96px ;
+    margin-right:96px ;
+    display:inline-block;
+}
+
+
+.darklinelong
+{
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-color: #102b40;
+    display: inline-block;
+}
+.darkline
+{
+ 
+    width: 70px;
+    height: 4px;
+    border-radius: 10px;
+    background-color: #102b40;
+    display: inline-block;
+
+}
+.greenline
+{
+    width: 70px;
+    height: 4px;
+    border-radius: 10px;
+    background-color:#1dc9a1;
+    display: inline-block;
+}
+
+.darklineset
+{
+    display: inline-block;
+    margin: 92px;
+}
+
+footer
+{
+     
+     height: 300px;
+     background-color: #102b40;
+     
+     display: block;
+}
+
+.box5
+{
+    height: 30px;
+    width:30px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.boxset7
+{
+    margin-left: -80px;
+    margin-top:40px ;
+    
+}
+.lineset7
+{
+    
+    margin: 40px;
+    
+}
+.line7 
+{
+    width: 60px;
+}
+.boxandlines
+{
+    float: left;
+}
+
+.linetext
+{
+    display: block;
+}
+.textsetchild
+{
+    display: inline-block;
+    text-align: left;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+
+.linetext
+{
+    background-color: aliceblue;
+}
+.linetext1
+{
+    background-color: rgb(255, 255, 255);
+    width: 50px;
+}
+
+.main
+{
+    background-color: #1dc9a1;
+    width: 80px;
+    height :10px;
+}
+
+.textsetmain
+{
+
+    float: right;
+    position: relative;
+    right: 150px;
+    top: 50px;
+   
+}
+
+
+.card1
+{
+    width:40px;
+    position: relative;
+    top:-8px;
+
+    
+}
+
+.card2
+{
+    
+    width: 20px;
+    float: right;
+    
+}
+
+.card-title
+{
+    text-align: left;
+}
+
+.dark
+{
+    background-color: #102b40;
+    float: left;
+    width: 50px;
+    
+}
+.dark1
+{
+    background-color: #102b40;
+    float: left;
+    width: 30px;
+    
+}
+.dark2
+{
+    background-color: #102b40;
+    float: left;
+    width: 70px;
+    
+}
+
+
+
+
+
+.card-text
+{
+    text-align: left;
+}
+
+.thickcard
+{
+  float: left;
+  width: 70px;
+  height: 21px;
+  border-radius: 20px;
+}
+.boxcard
+{
+    float: right;
+}
+
+.col
+{
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    
+    transform: scale(0.9);
+    
+    
+    
+}
+.cardset
+{
+    transform: scale(0.8);
+}
